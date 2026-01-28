@@ -1,7 +1,7 @@
 # python-practice- 
 
 
-This repository contains my python practice programs 
+'"""This repository contains my python practice programs 
  I am using this repo to learn python , Git ,Github , AND vs code .
 
  ## Topics 
@@ -15,3 +15,6 @@ This repository contains my python practice programs
   Pyhont 
   Vs code 
   Git s Github 
+ 
+  name = "namw"
+  print(name)
