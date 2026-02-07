@@ -18,3 +18,5 @@
  
   name = "namw"
   print(name)
+
+i am a compelete noob to use github i trying to learn python and github for my work and somthing 
