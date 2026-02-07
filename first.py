@@ -1,22 +1,11 @@
-"""sac = "lekhan dhruw "
-print(sac)"""
+x = int(input("enter your favorite number :"))   
 
-# school marks 
-chimestry = int(input("Enter your chimestry marks : "))
-physics = int(input("Enter your physics  marks : "))
-math = int(input("Enter your math marks : "))
-biology = int(input("Enter your biology marks : "))
+tuples =  (1,4 ,9, 16, 25, 36, 49, 64, 81, 100 )
+i = 0 
+while i < len(tuples):
+    if x == tuples [i]: 
+        print(x ,"found at the indx : ", i)
+    i += 1 
 
-sum = chimestry + physics + math + biology
-total = sum / 4
 
-if total >= 85:
-    print("your final grad is : A")
-elif total >= 70:
-    print("your final grad is : B ")
-elif total >= 50:
-    print(("your final grad is : c "))
-else : 
-    print("you are failed in exam ")
 
-print(total ,"try next time ")
